@@ -354,6 +354,101 @@ hr {
   opacity: 0.25;
 }
 /* thanks */
+/* media query home */
+
+@media (min-width: 1024px) and (max-width: 1980px)  
+{  /* Add your styles for screens up to 1980px wide here */
+  .home-social-list {
+    top: 60%;
+  }
+  
+  .home-social-list::before {
+    display: block;
+    content: "";
+    width: 5px;
+    height: 160px;
+    background-color: #FD523A;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    border-radius: 10px;
+   
+  }
+
+  .Image-hero {
+    mix-blend-mode: lighten ;
+    margin-top: 20%;
+    width: 100%;
+    height: 100%;
+  }
+
+  .titles {
+
+  font-size: 40px;
+  }
+}
+@media (min-width: 320px) and (max-width: 768px)  {
+  .home-social-list {
+    display: inline-block;
+    right: 20px;
+    top: 180%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 1.5rem;
+    line-height: 1.75;
+    text-align:center;
+    -webkit-transform: translateY(-55%);
+    -ms-transform: translateY(-55%);
+    transform: translateY(-55%);
+  }
+  
+  .home-social-list::before {
+    display: flex;
+    content: "";
+    width: 5px  ;
+    height: 160px;
+    background-color: #FD523A;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    border-radius: 10px;
+   
+  }
+
+  .Image-hero {
+    margin-top: 0%;
+    width: 100%;
+    height: 100%;
+  }
+
+  .titles {
+
+  font-size: 40px;
+  }
+
+  .titles  {
+    margin-top: 10%;
+  }
+  .lead {
+    font-size: 1.10rem;
+    font-weight: 300;
+    margin-top: 5%;
+  }
+
+  .btn-primario {
+    margin-top: 5%;
+  }
+}
+
+
+
+
+
+
+
+
+
 
 .container-img {
   display: flex;
