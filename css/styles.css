@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("../assets/fonts/New-Aeonik-Trials/");
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -74,6 +75,16 @@
   box-sizing: border-box;
 }
 
+body {
+  font-size: 1.6rem;
+  line-height: 1.875;
+  color: #767676;
+  margin: 0;
+  padding: 0;
+}
+
+
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
@@ -92,6 +103,10 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   
+}
+
+* {
+  font-family:var(--bs-font-monospace);
 }
 
 .nav {
@@ -113,36 +128,75 @@ body {
   font-size: 30px;
 }
 
+/*prueba de botton*/
 
 .btn-primario {
-  background-color: #FD523A;
-  color: #F4F3FF;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  padding-left: 24px;
-  padding-right: 24px;
-  border-radius: 10px;
+  background: transparent;
+  position: relative;
+  padding: 5px 15px;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 600;
   text-decoration: none;
-  border: none;
+  cursor: pointer;
+  border: 1px solid rgb(253, 82, 58);
+  border-radius: 100px;
+  outline: none;
+  overflow: hidden;
+  color: rgb(253, 82, 58);
+  transition: color 0.3s 0.1s ease-out;
+  text-align: center;
+}
+
+.btn-primario span {
+  margin: 10px;
+}
+
+.btn-primario::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  content: '';
+  border-radius: 50%;
+  display: block;
+  width: 20em;
+  height: 20em;
+  left: -5em;
+  text-align: center;
+  transition: box-shadow 0.5s ease-out;
+  z-index: -1;
+}
+
+.btn-primario:hover {
+  color: #fff;
+  border: 1px solid rgb(253, 82, 58);;
+}
+
+.btn-primario:hover::before {
+  box-shadow: inset 0 0 0 10em rgb(253, 82, 58);
 }
 
 
 .btn-primario:hover {
-  background-color: #FD6F5B;
+  background-color: #FD523A;
   transition: all 0.5s;
 }
 
 
 .btn-segundario {
-  background-color: #3D3E42;
+  background-color: transparent;
   color: #FAFAFA;
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 20px;
   padding-right: 20px;
-  border-radius: 10px;
+  border-radius: 100px;
   text-decoration: none;
-  border: none;
+  border: solid 1px;
   font-size: 14px;
 }
 
