@@ -121,6 +121,7 @@ body {
 .titles {
   color: #F4F3FF;
   font-size: 45px;
+  margin-top: 30px;
 }
 
 .subtitles {
@@ -251,8 +252,10 @@ font-size: 18px;
 #tools  {
  
   background-color: #FD523A;
-  height: 600px;
+  height: 110vh;
 }
+
+
 
 .container-tools {
   display: flex;
@@ -263,8 +266,7 @@ font-size: 18px;
 .container-title {
   display:flex;
   justify-content: center;
-  margin-bottom: 100px;
-  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 .margin {
@@ -276,11 +278,6 @@ font-size: 18px;
   color:#FD523A;
   font-size: 40px;
   text-decoration: none;
-}
-
-.page-section {
-margin-top:200px;
-
 }
 
 .container-nav {
@@ -515,6 +512,12 @@ hr {
 
   .btn-primario {
     margin-top: 5%;
+  }
+
+  .container-tools {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
   }
 
 }

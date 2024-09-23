@@ -1,0 +1,193 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:crd="http://ns.adobe.com/camera-raw-defaults/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:exifEX="http://cipa.jp/exif/1.0/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile"
+    xmlns:crlcp="http://ns.adobe.com/camera-raw-embedded-lens-profile/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:CreatorTool="NIKON Z 30 Ver.01.10    "
+   xmp:CreateDate="2024-09-15T15:12:38.90+01:00"
+   xmp:Rating="0"
+   xmp:ModifyDate="2024-09-15T15:12:38.90+01:00"
+   xmp:MetadataDate="2024-09-23T20:59:17+01:00"
+   crd:Exposure2012="0.33"
+   crd:Highlights2012="-21"
+   crd:Shadows2012="10"
+   crd:LuminanceSmoothing="26"
+   crd:LuminanceNoiseReductionDetail="75"
+   crd:LuminanceNoiseReductionContrast="0"
+   crd:ColorNoiseReduction="10"
+   crd:ColorNoiseReductionDetail="50"
+   crd:ColorNoiseReductionSmoothness="50"
+   crd:Sharpness="24"
+   crd:SharpenRadius="2.00"
+   crd:SharpenDetail="25"
+   crd:SharpenEdgeMasking="0"
+   crd:Contrast2012="0"
+   crd:Saturation="0"
+   crd:CameraProfile="Camera Portrait"
+   crd:HueAdjustmentRed="0"
+   crd:HueAdjustmentOrange="0"
+   crd:HueAdjustmentYellow="0"
+   crd:SaturationAdjustmentRed="0"
+   crd:SaturationAdjustmentOrange="0"
+   crd:SaturationAdjustmentYellow="0"
+   crd:LuminanceAdjustmentRed="0"
+   crd:LuminanceAdjustmentOrange="0"
+   crd:LuminanceAdjustmentYellow="0"
+   crd:LensProfileEnable="1"
+   tiff:Make="NIKON CORPORATION"
+   tiff:Model="NIKON Z 30"
+   tiff:Orientation="8"
+   exif:ExifVersion="0231"
+   exif:ExposureTime="1/500"
+   exif:ShutterSpeedValue="8965784/1000000"
+   exif:FNumber="63/10"
+   exif:ApertureValue="5310704/1000000"
+   exif:ExposureProgram="2"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="100"
+   exif:ExposureBiasValue="0/6"
+   exif:MeteringMode="5"
+   exif:LightSource="9"
+   exif:FocalLength="2500/10"
+   exif:SensingMethod="2"
+   exif:FileSource="3"
+   exif:SceneType="1"
+   exif:FocalLengthIn35mmFilm="375"
+   exif:CustomRendered="1"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="1"
+   exif:SceneCaptureType="2"
+   exif:GainControl="0"
+   exif:Contrast="0"
+   exif:Saturation="0"
+   exif:Sharpness="0"
+   exif:SubjectDistanceRange="0"
+   exif:FocalPlaneXResolution="77588412/32768"
+   exif:FocalPlaneYResolution="77588412/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:LensMake="NIKON"
+   exif:DateTimeOriginal="2024-09-15T15:12:38.90+01:00"
+   aux:SerialNumber="3901466"
+   aux:LensInfo="500/10 2500/10 450/100 630/100"
+   aux:Lens="NIKKOR Z DX 50-250mm f/4.5-6.3 VR"
+   aux:LensSerialNumber="20140425"
+   aux:ImageNumber="3301"
+   exifEX:LensModel="NIKKOR Z DX 50-250mm f/4.5-6.3 VR"
+   exifEX:LensMake="NIKON"
+   photoshop:DateCreated="2024-09-15T15:12:38.90+01:00"
+   photoshop:SidecarForExtension="NEF"
+   photoshop:EmbeddedXMPDigest="F34347EFDECF5D22207C3C896B68A1D7"
+   xmpMM:DocumentID="6BE7804E3F02058E33491EA05C6E6C53"
+   xmpMM:OriginalDocumentID="6BE7804E3F02058E33491EA05C6E6C53"
+   xmpMM:InstanceID="xmp.iid:77bafa2d-ca29-424b-91b5-2bba07cba73c"
+   dc:format="image/x-nikon-nef"
+   crs:HasSettings="False"
+   crs:HasCrop="False"
+   crs:AlreadyApplied="False">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>100</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="0"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON Z 30"
+       stCamera:UniqueCameraModel="Nikon Z 30"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="NIKKOR Z DX 50-250mm f/4.5-6.3 VR"
+       stCamera:CameraPrettyName="Nikon Z 30"
+       stCamera:LensPrettyName="NIKKOR Z DX 50-250mm f/4.5-6.3 VR"
+       stCamera:ProfileName="Camera Settings"
+       stCamera:SensorFormatFactor="1.530912"
+       stCamera:FocalLength="250"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="5.310704">
+      <crlcp:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.975642"
+        stCamera:RadialDistortParam1="5.689587"
+        stCamera:RadialDistortParam2="67.615532"
+        stCamera:RadialDistortParam3="840.370887">
+       <crlcp:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="1">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.001833, 0.999392</rdf:li>
+          <rdf:li>0.003666, 0.997567</rdf:li>
+          <rdf:li>0.005499, 0.994529</rdf:li>
+          <rdf:li>0.007332, 0.990278</rdf:li>
+          <rdf:li>0.009165, 0.984818</rdf:li>
+          <rdf:li>0.010998, 0.978154</rdf:li>
+          <rdf:li>0.012831, 0.970293</rdf:li>
+          <rdf:li>0.014664, 0.961242</rdf:li>
+          <rdf:li>0.016497, 0.951011</rdf:li>
+          <rdf:li>0.018330, 0.939612</rdf:li>
+          <rdf:li>0.020163, 0.927059</rdf:li>
+          <rdf:li>0.021996, 0.913371</rdf:li>
+          <rdf:li>0.023829, 0.898569</rdf:li>
+          <rdf:li>0.025662, 0.882677</rdf:li>
+          <rdf:li>0.027495, 0.865727</rdf:li>
+          <rdf:li>0.029328, 0.847753</rdf:li>
+          <rdf:li>0.031161, 0.828798</rdf:li>
+          <rdf:li>0.032994, 0.808907</rdf:li>
+          <rdf:li>0.034828, 0.788136</rdf:li>
+          <rdf:li>0.036661, 0.766545</rdf:li>
+          <rdf:li>0.038494, 0.744202</rdf:li>
+          <rdf:li>0.040327, 0.721183</rdf:li>
+          <rdf:li>0.042160, 0.697569</rdf:li>
+          <rdf:li>0.043993, 0.673450</rdf:li>
+          <rdf:li>0.045826, 0.648918</rdf:li>
+          <rdf:li>0.047659, 0.624073</rdf:li>
+          <rdf:li>0.049492, 0.599018</rdf:li>
+          <rdf:li>0.051325, 0.573856</rdf:li>
+          <rdf:li>0.053158, 0.548694</rdf:li>
+          <rdf:li>0.054991, 0.523638</rdf:li>
+          <rdf:li>0.056824, 0.498788</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </crlcp:VignetteModel>
+       </rdf:Description>
+      </crlcp:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:77bafa2d-ca29-424b-91b5-2bba07cba73c"
+      stEvt:when="2024-09-23T20:59:17+01:00"
+      stEvt:softwareAgent="Adobe Photoshop Camera Raw 16.5 (Windows)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
