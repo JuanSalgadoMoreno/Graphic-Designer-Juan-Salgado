@@ -11700,3 +11700,11 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+/*estilos pantalla portafolio*/
+
+.portfolio-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Hace que la imagen cubra todo el contenedor y se recorte si es necesario */
+}
