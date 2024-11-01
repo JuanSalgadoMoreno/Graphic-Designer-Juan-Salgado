@@ -121,7 +121,6 @@ body {
 .titles {
   color: #F4F3FF;
   font-size: 45px;
-  margin: 50px;
 }
 
 .subtitles {
@@ -216,6 +215,7 @@ body {
 
 
 .home {
+  margin-top: 50px;
   box-shadow: 0px 20px 20px 0px rgba(0,0,0,0.25);
   -webkit-box-shadow: 0px 15px 20px 0px rgba(0,0,0,0.25);
   -moz-box-shadow: 0px 15px 20px 0px rgba(0,0,0,0.25);
@@ -251,7 +251,7 @@ font-size: 18px;
 #tools  {
   margin: 0px;
   background-color: #FD523A;
-  height: 110%;
+  height: auto;
 }
 
 
@@ -428,10 +428,7 @@ hr {
 
 @media (min-width: 1024px) and (max-width: 1980px)  
 { 
-  .home {
-    margin-top: 10%;
-  }
-
+ 
   /* Add your styles for screens up to 1980px wide here */
   .home-social-list {
     top: 60%;
