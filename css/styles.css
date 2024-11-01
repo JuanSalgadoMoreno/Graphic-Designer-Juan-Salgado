@@ -121,7 +121,7 @@ body {
 .titles {
   color: #F4F3FF;
   font-size: 45px;
-  margin-top: 30px;
+  margin: 50px;
 }
 
 .subtitles {
@@ -216,8 +216,7 @@ body {
 
 
 .home {
-  margin-top: 50px;
-  box-shadow: 0px 15px 20px 0px rgba(0,0,0,0.25);
+  box-shadow: 0px 20px 20px 0px rgba(0,0,0,0.25);
   -webkit-box-shadow: 0px 15px 20px 0px rgba(0,0,0,0.25);
   -moz-box-shadow: 0px 15px 20px 0px rgba(0,0,0,0.25);
 }
@@ -250,9 +249,9 @@ font-size: 18px;
 }
 
 #tools  {
- 
+  margin: 0px;
   background-color: #FD523A;
-  height: 110vh;
+  height: 110%;
 }
 
 
@@ -266,7 +265,12 @@ font-size: 18px;
 .container-title {
   display:flex;
   justify-content: center;
-  margin-bottom: 30px;
+  margin: 40px;
+
+}
+
+.item-title {
+  margin-top: 40px;
 }
 
 .margin {
@@ -298,19 +302,22 @@ font-size: 18px;
 .container-card {
   display: flex;
   flex-direction: column;
-  align-content: flex-start;
-  width: 350px;
   background-color: #3D3E42;
   border-radius: 10px;
-  margin: 20px;
   padding-left: 8px;
   padding-top: 8px;
   padding-right: 8px;
 }
 
 .container-card:hover {
-  background-color: #28292c;
-  transition: all 1s;
+  background-color: #FD523A;
+  transition: all 0.5s;
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container-card:hover .iconos {
+  color: #ffffff; /* Color blanco */
 }
 
 .container-icon {
@@ -11708,3 +11715,9 @@ html {
   height: 100%;
   object-fit: cover; /* Hace que la imagen cubra todo el contenedor y se recorte si es necesario */
 }
+
+#portfolio {
+  margin-top: 15%;
+}
+
+
