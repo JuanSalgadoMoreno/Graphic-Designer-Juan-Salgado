@@ -221,6 +221,9 @@
   align-items: flex-start;
   border-radius: 20px;
   padding: 30px;
+  box-shadow: -5px 13px 20px 8px rgba(0,0,0,0.48);
+  -webkit-box-shadow: -5px 13px 20px 8px rgba(0,0,0,0.48);
+  -moz-box-shadow: -5px 13px 20px 8px rgba(0,0,0,0.48);
 
 }
 
@@ -238,8 +241,3 @@
   color: #34353a;
 }
 
-.parraphs-card {
-  color: #3d3e42;
-  font-size: 18px;
-
-}
